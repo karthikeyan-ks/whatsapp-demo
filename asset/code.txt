@@ -1,0 +1,24 @@
+<div class="fourth">
+                    <div class="image">
+                        message
+                        <img src="asset/telegram-logo-png-0.png" height="50" width="50">
+                    </div>
+                </div>
+                <div class="fourth">
+                    <div class="image">
+                        contacts
+                        <img src="asset/telegram-logo-png-0.png" height="50" width="50">
+                    </div>
+                </div>
+                <div class="fourth">
+                    <div class="image">
+                        status
+                        <img src="asset/telegram-logo-png-0.png" height="50" width="50">
+                    </div>
+                </div>
+                <div class="fourth">
+                    <div class="image">
+                        settings
+                        <img src="asset/telegram-logo-png-0.png" height="50" width="50">
+                    </div>
+                </div>
