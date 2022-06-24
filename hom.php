@@ -155,7 +155,6 @@ if(isset($_GET['signup'])){
         var msg=document.getElementById("message");
         var context=document.getElementById("second");
         button.addEventListener("click",(event)=>{
-            context.appendChild()
         })
     </script>
 </body>
